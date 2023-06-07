@@ -1,7 +1,7 @@
 console.log("-----------------------------");
 // OBJECT METHODS
-// WE CAN ADD FUNCTIONS TO OBJECTS
-
+// I CAN ADD FUNCTIONS TO OBJECTS
+// just some random test data for the object
 const jay1 = {
   firstName: "jay",
   lastName: "rietzke",
