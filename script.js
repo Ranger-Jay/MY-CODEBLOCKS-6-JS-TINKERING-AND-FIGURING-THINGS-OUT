@@ -9,7 +9,7 @@ const jay1 = {
   job: "software developer",
   friends: ["mike", "pete", "steve"],
   hasDriversLicense: true,
-  //uncomment function below for lines 389 and 390
+  //uncomment function below for lines 389 and 390 - edit: refers to calcAge function, but not needed to operate, just to test.
   // calcAge: function (birthYear) {
   //   return 2040 - birthYear;
   // },
