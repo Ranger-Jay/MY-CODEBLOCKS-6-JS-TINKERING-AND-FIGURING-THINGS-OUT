@@ -6,7 +6,7 @@ const jay1 = {
   firstName: "jay",
   lastName: "rietzke",
   birthYear: 1776,
-  job: "software develper",
+  job: "software developer",
   friends: ["mike", "pete", "steve"],
   hasDriversLicense: true,
   //uncomment function below for lines 389 and 390
