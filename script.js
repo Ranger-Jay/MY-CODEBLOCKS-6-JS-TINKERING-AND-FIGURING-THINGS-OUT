@@ -55,5 +55,5 @@ console.log(jay1.calcAge()); //as dot notation
 
 // testing challenge, make it say this:
 // " jay is a nn-year old FSWD, and he has a/no driver's license" // line 40 to 43 and 58.
-
+console.log(jay1.getSummary());
 // to test the 'a/no', change the boolean in line 369 in the object from true to false and vice/versa
