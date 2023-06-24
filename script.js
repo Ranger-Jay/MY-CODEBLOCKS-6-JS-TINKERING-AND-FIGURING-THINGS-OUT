@@ -34,7 +34,7 @@ const jay1 = {
   // the 'this' keyword is very useful, to avoid rewriting arguments/perameters. this is DRY principle
   calcAge: function () {
     console.log(this);
-    return 2023 - this.birthYear;
+
   },
 
   getSummary: function () {
