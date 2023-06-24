@@ -21,7 +21,7 @@ const jay1 = {
   // any function expression that is attached to an object is called a method
 
   // function declarations do not work such as:
-
+  // function calcAge(birthYear) {
   //   return 2040 - birthYear;
   // }
   // console.log(calcAge);
