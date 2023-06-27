@@ -6,7 +6,7 @@ const jay1 = {
   firstName: "jay",
   lastName: "rietzke",
   birthYear: 1776,
-  job: "software developer",
+  job: "software develop",
   friends: ["mike", "pete", "steve"],
   hasDriversLicense: true,
   //uncomment function below for lines 389 and 390 - edit: refers to calcAge function, but not needed to operate, just to test.
