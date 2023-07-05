@@ -5,7 +5,7 @@ console.log("-----------------------------");
 const jay1 = {
   firstName: "jay",
   lastName: "rietzke",
-  birthYear: 1776,
+  birthYear: 1796,
   job: "software developer",
   friends: ["mike", "pete", "steve"],
   hasDriversLicense: true,
